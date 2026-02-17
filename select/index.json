@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "鬱曜日",
+  "base_artist": "MILKDOT",
+  "createdAt": "2026-02-17T11:48:03.237931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鬱曜日",
+      "artist": "MILKDOT",
+      "has_synced": true,
+      "path": "select/01_鬱曜日_MILKDOT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鬱曜日 - utsuyoubi",
+      "artist": "MILKDOT",
+      "has_synced": true,
+      "path": "select/02_鬱曜日_-_utsuyoubi_MILKDOT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鬱曜日",
+      "artist": "MILKDOT",
+      "has_synced": false,
+      "path": "select/pl_01_鬱曜日_MILKDOT.txt"
+    }
+  ]
+}
